@@ -14,3 +14,5 @@ weight: 0
 - 저 주유소 서현에 있네 <https://naver.me/xyUx2LI0>
 - 끝말잇기녀는 [유튜브](https://www.youtube.com/channel/UCOJBge16Utgx33eV_ZR0P9A) 하나보다
   - [이승채를 만나다-'주유소 습격사건' 여배우 근황.. 갑자기 사라진 이유](https://www.youtube.com/watch?v=gebVN8cFPOY)
+---
+[[tags/Movie]]
