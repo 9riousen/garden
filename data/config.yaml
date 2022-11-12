@@ -1,6 +1,6 @@
-name: Jacky Zhao
+name: 9riousen
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -9,18 +9,17 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/9riousen/garden/tree/hugo/content
 enableSemanticSearch: false
-operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+operandApiKey: "Vo-cK-5Kw5qBNmTAxvX4d"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  틀린 내용과 다른 의견은 https://github.com/9riousen/garden/discussions
 page_title:
-  "🪴 Quartz 3.3"
+  "두 뇌"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/9riousen
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/9riousen
