@@ -1,6 +1,6 @@
 baseURL = "https://garden.gongshim.net/"
 languageCode = "ko-kr"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-GS6339GHSH"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
