@@ -1,3 +1,6 @@
+---
+title: Solidity
+---
 # Data type
 - `bool` 에는 `true` or `false`만 가능
 - 숫자
