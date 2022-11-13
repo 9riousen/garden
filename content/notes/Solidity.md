@@ -45,7 +45,20 @@ contract Test {
 - <https://www.tutorialspoint.com/solidity/solidity_pure_functions.htm>
 - state를 읽지도 않고 오로지 함수의 인자만 참고하여 return한다
 
+# Data location
+- `storage`
+	- contract의 field는 `storage`에 저장된다
+- `memory`
+	- 함수 body에서 allocate
+- `calldata`
+	- function arguments가 저장되는 곳
+	- `memory`와 거의 동일하게 동작한다
+
+# [Remix IDE](https://remix.ethereum.org/)
+- Online IDE인건 좋은데 auto complete은 안되는건가?
+
 # 참고자료
 - https://solidity-kr.readthedocs.io/ (한글)
+- https://remix.ethereum.org/
 ---
 [[tags/Solidity]]
