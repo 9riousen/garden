@@ -74,8 +74,17 @@ contract Test {
 - `tx.gasprice` (`uint`): gas price of the transaction
 - `tx.origin` (`address`): sender of the transaction (full call chain)
 
+# `payable` keyword
+- ether를 보내는 함수는 `payable`이 붙어야 함
+- 종류
+	- address payable
+		- 이 타입의 변수는 `send()`와 `transfer()`를 가진다
+	- function payable
+
+
 # 참고자료
-- https://solidity-kr.readthedocs.io/ (한글)
-- https://remix.ethereum.org/
+- <https://solidity-kr.readthedocs.io/> (한글)
+- <https://remix.ethereum.org/>
+- [solidity - payable (1) 개념](https://caileb.tistory.com/147)
 ---
 [[tags/Solidity]]
