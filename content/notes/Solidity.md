@@ -24,6 +24,27 @@ title: Solidity
 	- blockchain transaction이 생성되지도 않고 block에 기록되지도 않는다
 	- [[tags/TODO]] 그럼 어떻게 호출하는가? smart contract의 메소드 호출은 tx를 만들어야 하는거 아닌가?
 
+# `view` function
+- <https://www.tutorialspoint.com/solidity/solidity_view_functions.htm>
+```solidity
+pragma solidity ^0.5.0;
+
+contract Test {
+   function getResult() public view returns(uint product, uint sum){
+      uint a = 1; // local variable
+      uint b = 2;
+      product = a * b;
+      sum = a + b; 
+   }
+}
+```
+- `returns` 앞에 `view` 가 붙은 함수는
+	- contract의 state를 변경시키지 않는다
+	- state변수를 읽기는 한다 (`pure` function과의 차이점)
+# `pure` function
+- <https://www.tutorialspoint.com/solidity/solidity_pure_functions.htm>
+- state를 읽지도 않고 오로지 함수의 인자만 참고하여 return한다
+
 # 참고자료
 - https://solidity-kr.readthedocs.io/ (한글)
 ---
