@@ -19,6 +19,11 @@ title: Solidity
 		- `ufixed`는 `ufixed128x19`
 - [`bytes1`(1byte)~`bytes32`(32byte) 타입이 지원된다](notes/bytes type) 
 
+# Read only 동작
+- state를 변경하지 않는 함수는 호출하여도
+	- blockchain transaction이 생성되지도 않고 block에 기록되지도 않는다
+	- [[tags/TODO]] 그럼 어떻게 호출하는가? smart contract의 메소드 호출은 tx를 만들어야 하는거 아닌가?
+
 # 참고자료
 - https://solidity-kr.readthedocs.io/ (한글)
 ---
