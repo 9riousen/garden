@@ -1,4 +1,5 @@
 ---
 title: "Solidity"
 ---
-Ethereum's Solidity
+---
+[[tags/Ethereum]]
