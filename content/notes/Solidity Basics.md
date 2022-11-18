@@ -81,10 +81,16 @@ contract Test {
 		- 이 타입의 변수는 `send()`와 `transfer()`를 가진다
 	- function payable
 
+# [Sending Ether](https://solidity-by-example.org/sending-ether/)
+- Contract에 ETH를 보내는 방법은 3가지
+	- `address.transfer(amount)`: 실패시 error
+	- `address.send(amount)`: 성공여부 반환(false면 `revert()`를 call하자)
+	- `address.call{value:msg.value}("")`:  (result, data)를 반환
 
 # 참고자료
 - <https://solidity-kr.readthedocs.io/> (한글)
 - <https://remix.ethereum.org/>
 - [solidity - payable (1) 개념](https://caileb.tistory.com/147)
+- [Units and global variables](https://docs.soliditylang.org/en/v0.8.13/units-and-global-variables.html): API Reference
 ---
 [[tags/Solidity]]
