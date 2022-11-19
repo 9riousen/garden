@@ -80,6 +80,18 @@ contract Test {
 	- address payable
 		- 이 타입의 변수는 `send()`와 `transfer()`를 가진다
 	- function payable
+		- 이 함수를 호출 할 때 `msg.value`를 지정하여 contract 주소에 입금 가능
+- `msg.value`는 payable 함수를 호출하면 contract에 쌓인다. function body에서 무엇을 하던 상관 없다.
+- payable이 아니면서 주소로 자신(contract)의 돈을 보내느 함수도 작성 가능
+- 함수가 payable이건 아니건 contract 주소만 알면 ETH는 보낼 수 있는거 맞지?
+	- Metamask에 local ganache 추가 성공
+	- ganache의 private key를 import하니 잘 나오네
+	- 엇? contract로 0.01eth 했더니 실패. 다시 해봐야지. 에러는 out of gas 라고 나오긴 하는데
+	- 옷! 역시나 `receive()`를 구현하니 잘 된다. out of gas나는 건 사람 헷깔리게 한다
+## `receive()` and `fallback()`
+- 눈치 챘을지 모르지만 이 함수들은 `function` keyword를 사용하지 않는다
+- `external` 이어야 한다. 아니면 Remix에서 에러 발생
+	- 참고 : [`external`이 `public`보다 gas fee 저렴](https://ethereum.stackexchange.com/a/19391/54687)
 
 # [Sending Ether](https://solidity-by-example.org/sending-ether/)
 - Contract에 ETH를 보내는 방법은 3가지
