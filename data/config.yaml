@@ -10,7 +10,7 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
-enableGitHubEdit: true
+enableGitHubEdit: false
 GitHubLink: https://github.com/9riousen/garden/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "Vo-cK-5Kw5qBNmTAxvX4d"
