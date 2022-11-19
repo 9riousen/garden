@@ -1,5 +1,6 @@
 ---
 title: Solidity conventions
+date: '2022-11-17'
 ---
 - [Style Guide](https://docs.soliditylang.org/en/v0.8.16/style-guide.html#style-guide "Permalink to this heading")
 

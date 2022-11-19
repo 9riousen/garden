@@ -1,5 +1,6 @@
 ---
 title: Solidity Basics
+date: '2022-11-19'
 ---
 # Data type
 - `bool` 에는 `true` or `false`만 가능

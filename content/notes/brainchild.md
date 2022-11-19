@@ -1,5 +1,6 @@
 ---
 title: brainchild
+date: '2022-11-13'
 ---
 
 - (상상력의) 창작물

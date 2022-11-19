@@ -1,5 +1,6 @@
 ---
 title: 인생은 아름다워 (2020)
+date: '2022-11-13'
 ---
 ![Poster](https://movie-phinf.pstatic.net/20220929_135/1664441921246ae2RC_JPEG/movie_image.jpg?type=m203_290_2)
 
