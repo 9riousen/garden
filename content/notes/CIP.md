@@ -8,3 +8,5 @@ date: '2021-11-29'
 	- CIP는 미국법(USA Patriot Act)에 의한 금융업계의 요구사항
 	- KYC는 이를 위해 금융기관이 행하는 process
 - 큰 맥락에선 섞어써도 문제 없을 듯
+---
+[[tags/Glossary]]
