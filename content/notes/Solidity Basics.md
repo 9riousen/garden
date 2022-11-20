@@ -103,6 +103,8 @@ contract Test {
 ## Contract vs. Library
 - library는 state가 없고 utility들만 제공함
 
+## [[call-vs-delegateCall]]
+
 # 참고자료
 - <https://solidity-kr.readthedocs.io/> (한글)
 - <https://remix.ethereum.org/>
