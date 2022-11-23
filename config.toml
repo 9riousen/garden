@@ -12,6 +12,7 @@ summaryLength = 20
 enableGitInfo = true
 enableEmoji = true
 hasCJKLanguage = true
+timeZone = "Asia/Seoul"
 
 [markup]
     [markup.tableOfContents]

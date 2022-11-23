@@ -2,6 +2,7 @@
 title: "Stargaze"
 date: '2022-11-24'
 ---
+
 - <https://www.stargaze.zone/>
 - Keplr 연동됨
 - CosmWasmJS
