@@ -1,5 +1,5 @@
 ---
-title: call vs delegateCall
+title: "call vs delegateCall"
 date: '2022-11-20'
 ---
 - https://eun97.tistory.com/entry/Solidity-call-delegateCall
