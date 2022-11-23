@@ -1,16 +1,17 @@
-
-
-<hr/>
+<hr />
 
 {{if $.Site.Data.config.enableFooter}}
-<div class="page-end" id="footer">
-    <div class="backlinks-container">
-        {{partial "backlinks.html" .}}
-    </div>
-    <div>
-        {{partial "graph.html" .}}
-    </div>
-</div>
-{{end}}
+<script
+src="https://utteranc.es/client.js"
+repo="9riousen/garden"
+issue-term="pathname"
+theme="github-light"
+crossorigin="anonymous"
+async
+></script>
 
-{{partial "contact.html" .}}
+<div class="page-end" id="footer">
+  <div class="backlinks-container">{{partial "backlinks.html" .}}</div>
+  <div>{{partial "graph.html" .}}</div>
+</div>
+{{end}} {{partial "contact.html" .}}
