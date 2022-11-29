@@ -4,6 +4,7 @@ date: '2022-11-27'
 ---
 ![November rain](https://chumley.barstoolsports.com/union/2022/06/09/chrome-capture-2022-5-9.e9bd5b08.gif)
 
+작사/작곡: Axl Rose
 
 - When I look into your eyes
 - I can see a love [restrained](https://en.dict.naver.com/#/entry/enko/947f95ea26164c2488d834cd1558e349)
@@ -34,14 +35,24 @@ date: '2022-11-27'
 - When even friends seem out to harm you
 - But if you could heal a broken heart
 - Wouldn't time be out to charm you
-	- 이거 해석을 모르겠다
+	- 이거 누가 해석 좀 (당신을 매혹시키기엔 시간이 모자르다는 뜻인가?) [[tags/TODO]]
 - Sometimes, I need some time on my own
 - Sometimes, I need some time all alone
 - Everybody nedds some time on their own
 - Don't you know you need some time all alone?
+- And when your fears [[subside]]
+- And shadows still remain
+- I know that you can love me
+- when there's no one left to blame
+- so, never mine the darkness
+- we still can find a way
+- 'cause nothin' lasts forever
+- even cold November rain
+- Don't ya think that you need somebody?
+- Everybody needs somebody
+- You're not the only one
 
 ---
 - [[tags/English]]
-- [[tags/WIP]]
 - [Official Music Video](https://youtu.be/8SbUC-UaAxE)
 - [가사 해석](https://youtu.be/R9e9POwhJ9w)
