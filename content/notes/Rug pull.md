@@ -1,5 +1,5 @@
 ---
-title: "Rug pull)"
+title: "Rug pull"
 date: '2022-11-30'
 ---
 ![Rug pull](https://openseauserdata.com/files/5bcd597e4a7be8db931aa885a474c95c.gif)
