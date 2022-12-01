@@ -9,7 +9,7 @@ ignoreFiles = [
     "/content/private/*",
 ]
 summaryLength = 20
-enableGitInfo = true
+enableGitInfo = false
 enableEmoji = true
 hasCJKLanguage = true
 timeZone = "Asia/Seoul"
