@@ -32,3 +32,7 @@ timeZone = "Asia/Seoul"
         style = "dracula"
     [markup.goldmark.renderer]
         unsafe = true
+
+[params]
+    description = '工心'
+    images = ['https://dbdzm869oupei.cloudfront.net/img/vinylrugs/preview/18748.png']
