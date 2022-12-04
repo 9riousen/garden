@@ -20,6 +20,6 @@ images: ["https://ethereum.org/static/9628ab90bfd02f64cf873446cbdc6c70/302a4/gas
 	- 즉, ERC20 transfer에 드는 gas fee는 대략 65,000gas X 14.84Gwei = 964600 Gwei
 		- =0.0009646ETH ([Gwei calculator](https://www.alchemy.com/gwei-calculator))
 	- Ether는 감이 없으니까 현재 가격(1ETH=1275.18USD)으로 대략 **1.23USD** = 1599KRW
---
+---
 - [[tags/Ethereum]]
 - [Gas and fees - ethereum.org](https://ethereum.org/ko/developers/docs/gas/#top)
