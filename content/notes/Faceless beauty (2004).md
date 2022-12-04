@@ -1,6 +1,7 @@
 ---
 title: "얼굴없는 미녀 (2004)"
 date: '2022-12-03'
+images: ['http://movie-img.yes24.com/NYes24/MOVIE/nofacebeauty.jpg']
 ---
 ![얼굴없는 미녀](http://movie-img.yes24.com/NYes24/MOVIE/nofacebeauty.jpg)
 - 화질이 왜 이렇게 안 좋은가 했더니 거의 20년 전 영화네
