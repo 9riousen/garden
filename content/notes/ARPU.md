@@ -5,5 +5,5 @@ images: ["https://wsp-blog-images.s3.amazonaws.com/uploads/2021/11/18115339/Aver
 ---
 ![ARPU](https://wsp-blog-images.s3.amazonaws.com/uploads/2021/11/18115339/Average-Revenue-Per-User-ARPU-Formula-1536x480.jpg)
 - 가입자 한 명당 발생 수익 ([네이버 지식백과](https://terms.naver.com/entry.naver?docId=858571&cid=50371&categoryId=50371))
---
+---
 - [[tags/Glossary]]
