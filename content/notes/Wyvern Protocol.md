@@ -1,7 +1,7 @@
 ---
 title: "Wyvern Protocol"
 date: '2021-12-06'
-images: 'https://avatars.githubusercontent.com/u/41228229'
+images: ['https://avatars.githubusercontent.com/u/41228229']
 ---
 ![Wyvern Protocol](https://avatars.githubusercontent.com/u/41228229)
 - 디지털자산을 거래하기 위한 EVM-based blockchain용 오픈 프로토콜
