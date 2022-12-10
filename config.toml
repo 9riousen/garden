@@ -36,3 +36,6 @@ timeZone = "Asia/Seoul"
 [params]
     description = '工心'
     images = ['https://dbdzm869oupei.cloudfront.net/img/vinylrugs/preview/18748.png']
+
+[social]
+    twitter = '9riousen'
