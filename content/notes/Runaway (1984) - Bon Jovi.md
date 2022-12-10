@@ -3,6 +3,9 @@ title: "Runaway (1984) - Bon Jovi"
 date: '2022-12-02'
 ---
 ![Runaway](https://upload.wikimedia.org/wikipedia/en/9/9d/Bon_Jovi_Runaway.JPG)
+
+{{< youtube s86K-p089R8 >}}
+
 - On the street where you live girls talk about their social lives
 - They're made of lipstic, plastic and paint, a touch of sable in their eyes
 	- sable: [원래는 검은담비 라는 동물](https://en.wikipedia.org/wiki/Sable) 인데 '검정색'이라는 뜻으로 쓰인듯
@@ -32,5 +35,4 @@ date: '2022-12-02'
 - She don't readlly mind, it's only love she hoped to find
 ---
 - [[tags/English]]
-- [Official Music Video](https://youtu.be/s86K-p089R8)
 - [Bon Jovi(본조비) - Runaway 가사 해석 - Mette and Roger 박가네)](https://blog.naver.com/qkrshrgud/220771423786)
