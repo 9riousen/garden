@@ -1,6 +1,6 @@
 ---
 title: "NB (Nota bene)"
-date: '2022-12-16'
+date: '2022-12-17'
 images: ['https://t4.ftcdn.net/jpg/01/63/54/69/360_F_163546973_kD58ASUy6Y5VWHUH0bVWtLNVp2UV1MYb.jpg']
 ---
 ![NB](https://t4.ftcdn.net/jpg/01/63/54/69/360_F_163546973_kD58ASUy6Y5VWHUH0bVWtLNVp2UV1MYb.jpg)
