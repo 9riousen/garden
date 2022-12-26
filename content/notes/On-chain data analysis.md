@@ -7,6 +7,7 @@ images: ['https://crypto.news/app/uploads/2022/08/What_Is_Crypto_On-Chain_Analys
 
 ## Links
 - [[tags/TODO]] fill out
+- [8 Best On-Chain Data Analysis Platforms in 2022](https://cryptolisty.com/analysis-tools/best-on-chain-data-analysis-and-intelligence-platforms-in-2021/)
 
 ## Youtube
 {{< youtube YGoe5Q5ALpY >}}
