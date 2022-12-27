@@ -8,8 +8,7 @@ images: ['https://pbs.twimg.com/media/FkeeUgmX0AApbZw?format=jpg&name=900x900']
 - 문득 생각나서 찾아보려 했더니 아무리 구글링해도 나오질 않는다
 - 그러다 이 [트윗](https://twitter.com/oxusamimi/status/1603235011792375808) 발견
 ![[notes/images/usamimi-klaytn.png]]
-원본 tweet이 삭제되었다.
-{{<twitter user="Klaytn_KR" id="1603213726923968512">}}
+[원본 tweet](https://twitter.com/Klaytn_KR/status/1603213726923968512)이 삭제되었다.
 
 Google cache에서 찾았다. 왜 지웠을까?
 
