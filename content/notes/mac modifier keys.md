@@ -9,6 +9,7 @@ images: ['https://9to5mac.com/wp-content/uploads/sites/6/2016/03/keyboard-remap-
 - [맥에서 사용되는 특수 키, 단축키 모양을 쉽게 암기해 봅시다 - macnews](https://macnews.tistory.com/564)
 
 ![option](https://eshop.macsales.com/blog/wp-content/uploads/2020/02/option_left.png)
+
 난 이게 혼란 스러웠는데 키 위에는 아이콘이 아래는 영어가 써있는데 두개가 같은 의미이다.(Shit를 누르면 위에꺼 아니면 아래꺼 이렇게 동작하는게 아니다)
 
 ## `⌥` : Option key
