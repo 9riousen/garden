@@ -11,7 +11,8 @@ images: ['https://www.mamanatural.com/wp-content/uploads/name-images/boys/e/earn
 - 독일어 Ernest (에른스트 - 주의: 철자가 다르다)에서 왔는데 영미권으로가면 earnest가 된다.
 	- 뜻이 좋아서 인지 이름으로 많이 사용된다 - Ernest Hemingway (박성실 이나 강성실 정도의 이름인가 보다) 
 - Vitalik의 트윗을 보다가
-{{ twitter user="VitalikButerin" id="1608591727316684804" }}
+
+{{< twitter user="VitalikButerin" id="1608591727316684804" >}}
 
 ---
 - [[tags/English]]
