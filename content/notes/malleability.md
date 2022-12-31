@@ -7,6 +7,7 @@ images: ['https://sciencenotes.org/wp-content/uploads/2021/08/Malleable-Definiti
 
 - 원래 [망치질로 두드려 펴지는 금속의 성질](https://www.etymonline.com/word/malleable?ref=etymonline_crossreference)의 의미함 ([네이버사전](https://en.dict.naver.com/#/entry/enko/85230e96b83246d892d5d1b90898ccd3))
 - 유연성이나 조작가능성을 의미하기도 함
+{{< youtube wJVmlf5Rt5w >}}
 
 ---
 - [[tags/English]]
