@@ -1,5 +1,5 @@
 ---
-title: "Triad (삼합회))"
+title: "Triad (삼합회)"
 date: '2022-12-31'
 images: ['https://garden.gongshim.net/notes/images/wolverine-triad.jpg']
 ---
