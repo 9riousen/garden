@@ -1,6 +1,6 @@
 ---
 title: "wretch (불쌍한 놈)"
-date: '2022-12-31'
+date: '2023-01-01'
 images: ['https://garden.gongshim.net/notes/images/wolverine-wretch.jpeg']
 ---
 ![[notes/images/wolverine-wretch.jpeg]]
