@@ -1,7 +1,7 @@
 ---
 title: "AVL Tree"
 date: '2023-01-04'
-images: ['https://garden.gongshim.net/notes/images/keplr-arbitrary.png']
+images: ['https://garden.gongshim.net/notes/images/avltree.png']
 ---
 ![[notes/images/avltree.png]]
 
