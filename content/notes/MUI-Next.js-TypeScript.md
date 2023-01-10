@@ -11,8 +11,13 @@ images: ['https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGN87fiJAVnDzqCd
 	- 일단 나는 그냥 MUI사용하면 된다.
 	- MUI Base는 default style이 제공되지 않는다.
 - [The sx prop](https://mui.com/system/getting-started/the-sx-prop/) 에서 `sx`는 무엇의 줄임말 일까? 
-	- 검색 실패 [[tags/TODO]]
-	- 'S'type e'X'tension?
+	- 'S'tyle e'X'tension?
+	- CSS의 superset을 제공 (valid CSS + theme-aware properties)
+		- 예) `<Box sx={{ bgcolor: 'background.paper' }}>`
+	- 단위없는 숫자값은 sensible하게 해석된다
+		- `{{ width: 1/2 }}` : 50%
+		- `{{ width: 20 }}`: 20px
+		- `{{ margin: 2 }}`: `theme.spacing`값(기본: `8px`)의 2배
 - 약어 이해 (이렇게 모아보면 이해되지만 갑자기 `my: 4`가 나오면 이해가 안됨)
 	- `pt: 2` : `p`adding `t`op
 	- `my: 4` : `m`argin `y`-axis : margin-top과 margin-bottm
