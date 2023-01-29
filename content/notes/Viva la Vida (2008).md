@@ -7,7 +7,7 @@ images: ['https://upload.wikimedia.org/wikipedia/en/b/b2/Coldplay_-_Viva_la_Vida
 
 {{< youtube dvgZkm1xWPE >}}
 
-원래 Viva la Vida는 [Frida Kahlo](https://namu.wiki/w/%ED%94%84%EB%A6%AC%EB%8B%A4%20%EC%B9%BC%EB%A1%9C)가 그린 수박그림이다
+원래 Viva la Vida는 [Frida Kahlo](https://namu.wiki/w/%ED%94%84%EB%A6%AC%EB%8B%A4%20%EC%B9%BC%EB%A1%9C)가 그린 수박그림이다
 ![Viva la vida - watermelon](https://www.fridakahlo.org/images/paintings/viva-la-vida-watermelons.jpg)
 
 
