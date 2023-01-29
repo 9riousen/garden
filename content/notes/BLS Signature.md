@@ -13,7 +13,7 @@ images: ['https://miro.medium.com/max/1200/1*CyqBtsUTnME5R4QTU_ZZCg@2x.png']
 - 설명을 읽어도 전혀 모르겠다만
 - ECDSA에 비해
 	- 서명의 용량은 작지만
-		- 47 bytes vs. 64 bytes
+		- 48 bytes vs. 64 bytes
 	- 속도는 느리다
 		- 서명은 10배
 		- 검증은 34배
