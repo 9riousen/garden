@@ -47,7 +47,7 @@ App Link 예제:
 - Universal Link(iOS), App Link(Android)
 	- 이 둘은 거의 같은 개념인데 Platform만 다르다고 보면 됨
 	- `https://gongshim.net/teams/12` 처럼 `https://`로 시작함. 외형적으론 일반 web page주소와 구분이 안됨
-	- 하지만 `.well_known`에 해당 사이트를 볼 수 있는 native app의 정보를 기재해 두어 disambiguation(browser로 열것인가? 공식 app으로 열 것인가?) dialog 단계없이 바로 Native App으로 해당 정보를 볼 수 있게한다
+	- 하지만 `.well-known`에 해당 사이트를 볼 수 있는 native app의 정보를 기재해 두어 disambiguation(browser로 열것인가? 공식 app으로 열 것인가?) dialog 단계없이 바로 Native App으로 해당 정보를 볼 수 있게한다
 	- app이 설치 안된 경우 설치를 유도할 수 있다
 - Firebase Dynamic Links
 	- Universal Link와 App Link를 둘 다 지원하는게 번거로우니 한꺼번에 지원해주는 서비스가 몇 개 있다. 그 중 하나임
@@ -57,5 +57,5 @@ App Link 예제:
 - [[tags/Technology]]
 - [Google Acquires Firebase To Help Developers Build Better Real-Time Apps - TechCrunch (2014)](https://techcrunch.com/2014/10/21/google-acquires-firebase-to-help-developers-build-better-realtime-apps/)
 - [Avoid Android disambiguation dialog Using App Link Digital Assets Link](https://medium.com/android-news/avoid-android-disambiguation-dialog-using-app-link-digital-assets-link-434395e1ed30)
-- [For what is the ".well_known" folder? - serverfault](https://serverfault.com/a/795474)
+- [For what is the ".well-known" folder? - serverfault](https://serverfault.com/a/795474)
 - [Android App Links 추가](https://developer.android.com/studio/write/app-link-indexing?hl=ko)
