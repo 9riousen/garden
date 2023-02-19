@@ -6,14 +6,14 @@ images: ['https://s34035.pcdn.co/wp-content/uploads/2021/07/Apple-UniversalLink-
 ![Universal link](https://s34035.pcdn.co/wp-content/uploads/2021/07/Apple-UniversalLink-BlogIMG@3x-1536x767.png)
 ## ChatGPT가 한글로 알려주더라
 
-#### Deep link, Universal link, Dynamic link 차이점을 설명해줘
+### Deep link, Universal link, Dynamic link 차이점을 설명해줘
 Deep link, Universal link, Dynamic link는 모두 모바일 애플리케이션에서 링크를 다루는 방법 중 일부입니다. 각각의 차이점은 다음과 같습니다:
 
 1.  Deep link: Deep link는 특정 애플리케이션의 내부 콘텐츠로 바로 이동할 수 있는 하이퍼링크입니다. 예를 들어, 페이스북 앱에서 특정 게시물로 바로 이동하거나, 인스타그램 앱에서 특정 게시물 댓글을 바로 볼 수 있도록 하는 등의 기능을 제공합니다. 이 링크는 앱 개발자가 직접 구현할 수 있습니다.
 2.  Universal link: Universal link는 특정 URL을 통해 모바일 앱으로 연결하는 링크입니다. Universal link를 사용하면, 모바일 웹 페이지에서 링크를 클릭하면 해당 앱이 바로 열리는 것이 아니라, 해당 링크와 연결된 앱이 설치되어 있을 경우, 앱으로 연결됩니다. 만약 해당 앱이 설치되어 있지 않으면, 모바일 웹 페이지로 연결됩니다. 이 링크는 앱 개발자가 iOS에서는 애플 개발자 포털, 안드로이드에서는 앱 링크를 통해 설정할 수 있습니다.
 3.  Dynamic link: Dynamic link는 Universal link와 비슷한 개념이지만, 추가적인 기능을 제공합니다. Dynamic link를 사용하면, 사용자가 특정 링크를 클릭하여 앱으로 연결된 후, 앱에서 원하는 콘텐츠로 이동할 수 있도록 도와줄 수 있습니다. 예를 들어, 쇼핑 앱에서 특정 상품 페이지로 바로 이동할 수 있도록 하는 등의 기능을 제공합니다. 또한, Dynamic link는 모바일 웹 페이지로도 연결될 수 있으며, 이를 이용하여 iOS와 안드로이드 간의 링크 호환성 문제를 해결할 수 있습니다. 이 링크는 Firebase Dynamic Links를 사용하여 설정할 수 있습니다.
 
-#### 각 URL 예제를 보여줘
+### 각 URL 예제를 보여줘
 
 각각의 링크를 보여드리도록 하겠습니다.
 
@@ -27,7 +27,7 @@ Deep link, Universal link, Dynamic link는 모두 모바일 애플리케이션�
     `https://myapp.page.link/products/123`
     이 링크는 Firebase Dynamic Links를 사용하여 생성된 링크로, 사용자가 이 링크를 클릭하면 'myapp'이라는 이름의 앱과 연결되어, 해당 앱의 'products' 화면으로 이동하고, 상품 ID가 123인 상품을 보여줍니다. 사용자가 해당 앱을 설치하지 않았다면, 사용자의 디바이스에 맞는 모바일 웹 페이지에서 해당 콘텐츠를 보여줍니다.
 
-#### App Link도 같이 비교해줘
+### App Link도 같이 비교해줘
 App Link는 안드로이드 플랫폼에서 Universal Link와 비슷한 기능을 제공하는 개념입니다. 앱 링크는 안드로이드 운영체제에서 URL을 사용하여 앱과 웹 사이트 간의 연결을 지원합니다. Universal Link와 마찬가지로 사용자가 링크를 클릭하면 연결된 앱을 열 수 있고, 앱이 설치되어 있지 않은 경우 Google Play Store에서 해당 앱을 다운로드하도록 안내할 수 있습니다.
 
 앱 링크를 사용하려면, 해당 링크를 앱의 `AndroidManifest.xml` 파일에 등록하고, 웹 사이트에서 해당 링크와 연결된 디지털 에셋을 등록해야 합니다. 이를 통해 안드로이드 플랫폼에서 앱 링크를 인식하고 사용자가 링크를 클릭할 때마다 해당 앱으로 연결할 수 있습니다.
