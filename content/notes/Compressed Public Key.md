@@ -17,5 +17,5 @@ images: ['https://products.mpowerpromo.com/AMERICANNA/CS-5KY/CS-5KY-BF/big/CS-5K
 		- `52972572d465d016d4c501887b8df303eee3ed602c056b1eb09260dfa0da0ab288742f4dc97d9edb6fd946babc002fdfb06f26caf117b9405ed79275763fdb1c`
 ---
 - [[tags/Cryptography]]
-- [[tags/Blockchain]
+- [[tags/Blockchain]]
 - [02,03 or 04? So what are compressed and uncompressed public keys](https://medium.com/asecuritysite-when-bob-met-alice/02-03-or-04-so-what-are-compressed-and-uncompressed-public-keys-6abcb57efeb6)
