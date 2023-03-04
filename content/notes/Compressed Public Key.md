@@ -15,6 +15,12 @@ images: ['https://products.mpowerpromo.com/AMERICANNA/CS-5KY/CS-5KY-BF/big/CS-5K
 		- `0318ed2e1ec629e2d3dae7be1103d4f911c24e0c80e70038f5eb5548245c475f50`
 	- `04`로 시작하면 uncompressed public key라는 뜻이다
 		- `52972572d465d016d4c501887b8df303eee3ed602c056b1eb09260dfa0da0ab288742f4dc97d9edb6fd946babc002fdfb06f26caf117b9405ed79275763fdb1c`
+- [[notes/secp256k1]] 에서 어떤 x좌표의 y값이 2개가 나온다
+	- 따라서 x,y를 각각 32byte씩 64byte로 표현하는 것이 uncompressed public key
+	- x만 32 byte기재하고 y는 둘중 어떤것인지 첫바이트로 기재하는 것이 compressed public key
+	- 즉, 육안으로 봐도 compressed-uncompressed 가 맞게 변환 되었는지 어느정도 확인이 된다
+		- x좌표는 같이 때문에 compressed의 첫 1바이트(2 hex digit)을 제외한 나머지가 uncompressed 에도 똑같이 나타남
+
 ---
 - [[tags/Cryptography]]
 - [[tags/Blockchain]]
