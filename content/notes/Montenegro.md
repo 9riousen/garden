@@ -5,7 +5,8 @@ images: ['https://img.etoday.co.kr/pto_db/2023/03/600/20230325213236_1866046_120
 ---
 ![Do Kwon](https://img.etoday.co.kr/pto_db/2023/03/600/20230325213236_1866046_1200_800.jpg)
 
-![Serbia Montenegro](https://th.bing.com/th/id/OIP.OWgIBxWvL03-tfK8Ojz8ugAAAA?pid=ImgDet&rs=1))
+![Serbia Montenegro](https://th.bing.com/th/id/OIP.OWgIBxWvL03-tfK8Ojz8ugAAAA?pid=ImgDet&rs=1)
+
 - 세르비아에 있다던 권도형이 몬테니그로에서 체포되었다고 해서 몬테니그로는 어디인지 찾아봤더니 국경을 접하고 있네
 - '니그로'라는게 비하하는 느낌이 아닐까? 우연인건가 했는데 ChatGPT가 답을 알려줬다
 
