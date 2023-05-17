@@ -8,3 +8,4 @@ images: ['https://i.stack.imgur.com/to9n2.png']
 - 이미 출력된 로그도 옵션 켜면 시간이 보인다
 ---
 - [[tags/Web Frontend|Web Frontend]]
+- [console.log timestamps in Chrome - Stackoverflow](https://stackoverflow.com/a/24260317/111890)
