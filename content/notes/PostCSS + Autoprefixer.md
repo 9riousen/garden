@@ -22,6 +22,10 @@ images: ['https://theprotoolbox.com/wp-content/uploads/2020/06/Autoprefixer-CSS-
 :fullscreen {
 }
 ```
+
+## 참고자료 (vendor prefix)
+{{<youtube RUa1u2VsKDI>}}
+
 ---
 - [[tags/Technology|Technology]]
 - [PostCSS](https://postcss.org/)
