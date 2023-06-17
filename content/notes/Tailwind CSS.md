@@ -9,6 +9,6 @@ images: ['https://sjmitchblog.gatsbyjs.io/static/b010f9233278411413e88e0ac9a9c96
 - 제대로 만들어야 하는 서비스라면 유지관리성에서 떨어진다고 생각함
 - css 파일을 서비스 개발자가 작성하지 않고 Tailwind CSS가 제공하는 CSS class들만 취사 선택하여 적용한다. 즉, HTML 파일 밖을 벗어나지 않아도 된다
 ---
-- [[tags/Technology|Technology]]
+- [[tags/Web Frontend|Web Frontend]]
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
