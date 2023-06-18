@@ -12,6 +12,7 @@ images: ['https://sjmitchblog.gatsbyjs.io/static/b010f9233278411413e88e0ac9a9c96
 # [Responsive Design](https://tailwindcss.com/docs/responsive-design)
 ## width의 5가지 breakpoint prefix
 - media query의 `min-width`로 동작한다
+- Mobile first 방식임. 즉, prefix없는 클래스들이 모바일에 적용된다고 보면 된다
 - https://tailwind-css-responsive-1.rious9.repl.co/
 
 |Breakpoint prefix|Minimum width|CSS|
