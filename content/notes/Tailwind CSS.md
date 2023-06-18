@@ -23,6 +23,8 @@ images: ['https://sjmitchblog.gatsbyjs.io/static/b010f9233278411413e88e0ac9a9c96
 |`xl`|1280px|`@media (min-width: 1280px) { ... }`|
 |`2xl`|1536px|`@media (min-width: 1536px) { ... }`|
 
+# Centering
+- [Horizontal center example](https://replit.com/@rious9/Tailwind-CSS-Center)
 ---
 - [[tags/Web Frontend|Web Frontend]]
 - [Tailwind CSS](https://tailwindcss.com/)
