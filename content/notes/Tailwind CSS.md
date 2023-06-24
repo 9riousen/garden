@@ -27,6 +27,7 @@ images: ['https://sjmitchblog.gatsbyjs.io/static/b010f9233278411413e88e0ac9a9c96
 - [Horizontal center example](https://replit.com/@rious9/Tailwind-CSS-Center)
 # Notes
 - `min-h-screen`: `h-screen`보다 실용적이다. 컨텐트가 짧은 경우도 커버된다
+- `tailwind.config.js`를 통해 가용한 font size나 border width등을 추가할 수 있다. 그런데 난 있는거에 맞춰 쓰는걸 선호한다.
 
 ---
 - [[tags/Web Frontend|Web Frontend]]
