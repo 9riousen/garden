@@ -25,6 +25,11 @@ images: ['https://sjmitchblog.gatsbyjs.io/static/b010f9233278411413e88e0ac9a9c96
 
 # Centering
 - [Horizontal center example](https://replit.com/@rious9/Tailwind-CSS-Center)
+
+# Tailwind UI
+- <https://tailwindui.com/components>
+- 여기서 무료인거 찾아서 코드 참조한다
+
 # Notes
 - `min-h-screen`: `h-screen`보다 실용적이다. 컨텐트가 짧은 경우도 커버된다
 - `tailwind.config.js`를 통해 가용한 font size나 border width등을 추가할 수 있다. 그런데 난 있는거에 맞춰 쓰는걸 선호한다.
@@ -35,4 +40,5 @@ images: ['https://sjmitchblog.gatsbyjs.io/static/b010f9233278411413e88e0ac9a9c96
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
 - [Tailwind PLAY](https://play.tailwindcss.com/)
+- [Tailwind CSS Components](https://tailwindui.com/components)
 
