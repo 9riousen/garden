@@ -25,6 +25,9 @@ images: ['https://sjmitchblog.gatsbyjs.io/static/b010f9233278411413e88e0ac9a9c96
 
 # Centering
 - [Horizontal center example](https://replit.com/@rious9/Tailwind-CSS-Center)
+# Notes
+- `min-h-screen`: `h-screen`보다 실용적이다. 컨텐트가 짧은 경우도 커버된다
+
 ---
 - [[tags/Web Frontend|Web Frontend]]
 - [Tailwind CSS](https://tailwindcss.com/)
