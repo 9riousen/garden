@@ -34,3 +34,5 @@ images: ['https://sjmitchblog.gatsbyjs.io/static/b010f9233278411413e88e0ac9a9c96
 - [[tags/Web Frontend|Web Frontend]]
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
+- [Tailwind PLAY](https://play.tailwindcss.com/)
+
