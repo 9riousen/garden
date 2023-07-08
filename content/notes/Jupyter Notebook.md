@@ -1,6 +1,6 @@
 ---
 title: "Jupyter Notebook"
-date: '2023-07-03'
+date: '2023-07-08'
 images: ['https://docs.servicestack.net/assets/jupyter-python.6188762b.png']
 ---
 ![Jupyter](https://docs.servicestack.net/assets/jupyter-python.6188762b.png)
