@@ -7,8 +7,8 @@ images: ['https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Colored_neur
 
 # ANN (Artificial Neural Network: 인공신경망)
 - '망'은 'Network'을 의미
-- 무엇간의 망인가? -> 뉴런간의 연결
-- 위 그래프에서 Node는 인공 뉴런이고 Edge는 시냅스
+- 무엇간의 망인가? -> [[notes/Neuron|Neuron]]간의 연결
+- 위 그래프에서 Node는 인공 뉴런이들이 synapse를 통해 연결됨
 
 ---
 - [[tags/AI|AI]]
