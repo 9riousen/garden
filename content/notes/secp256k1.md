@@ -5,6 +5,12 @@ images: ['https://en.bitcoin.it/w/images/en/b/bf/Secp256k1.png']
 ---
 ![secp256k1](https://en.bitcoin.it/w/images/en/b/bf/Secp256k1.png)
 
+**S**tandard for **E**fficient **C**ryptography
+- p: Parameter `p` over `Fp`
+- 256: Field Size- `p` 의 bit수
+- k: Koblitz curve 변경
+- 1: sequence number
+
 [[notes/ECDSA]]의 타원곡선인자(ecparam) 중 하나( a=0, b=7 ). 즉,
 $$y^2 = x^3 + 7$$
 - 위 공식을 [Desmos](https://www.desmos.com/calculator) 같은곳에 입력해 보면 같은 그래프가 그려짐
