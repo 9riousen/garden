@@ -1,6 +1,6 @@
 ---
 title: CometBFT
-date: 2023-09-19
+date: 2023-09-20
 images:
   - https://avatars.githubusercontent.com/u/120695482?s=200&v=4
 ---
