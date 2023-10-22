@@ -9,5 +9,6 @@ images:
 - [[tags/Rust|Rust]] 에서 generic에 parameter를 제공하는 문법인데 엄청빠른 물고기 처럼 생겨서 붙인 별명
 - 한글설명은 [NeuroWhAI님의 포스트](https://neurowhai.tistory.com/312)에 잘 정리되어있다
 ---
+- [[tags/Rust]]
 - [[notes/Turbofish|Turbofish]]
 - <https://turbo.fish/>
