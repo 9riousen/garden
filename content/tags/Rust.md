@@ -12,5 +12,7 @@ images:
 # Rustacean
 - Rust 덕후들을 일컷는 단어 ("러스타션")
 
+{{< youtube -uHfu3Qhbco >}}
+
 ---
 - [[tags/Technology]]
