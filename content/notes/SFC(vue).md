@@ -9,5 +9,6 @@ images:
 
 - Single File Component
 - `*.vue` 파일로 template, logic, style을 하나의 파일에 정의함
---
+---
 - [[tags/JavaScript|JavaScript]]
+- [싱글 파일 컴포넌트 | Vue.js](https://ko.vuejs.org/guide/scaling-up/sfc.html#introduction)
