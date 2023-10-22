@@ -1,6 +1,6 @@
 ---
 title: SFC (Single File Component)
-date: 2023-11-22
+date: 2023-10-22
 images:
   - https://v2.vuejs.org/images/vue-component.png
 ---
