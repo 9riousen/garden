@@ -13,3 +13,4 @@ images:
 
 ---
 - [[tags/Technology|Technology]]
+- [모바일 고선명 링크|위키백과](https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%B0%94%EC%9D%BC_%EA%B3%A0%EC%84%A0%EB%AA%85_%EB%A7%81%ED%81%AC)
