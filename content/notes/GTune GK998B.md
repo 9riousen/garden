@@ -9,7 +9,8 @@ images:
 - (주)한성컴퓨터에서 판매하는 기계식 블루투스 키보드(3way pairing)
 # 필수정보
 ![[notes/images/GK998B-leds.png]]
-- USB케이블이 연결되면 무조건 유선으로 동작함(충전됨, 블루투스 disabled)
+- USB케이블이 연결되면 유선으로 동작함(충전됨, 블루투스 disabled)
+	- 이 상태에서 강제로 블루투스를 사용하려면 Fn + Ins
 - 케이블 분리 후 블루투스 전원버튼을 1초이상 누르고 있으면 배터리 전용표시등에 불이 들어옴
 - Fn키(스페이스 오른쪽에서 두번째) + DEL키(Enter키 오른쪽)을 3초간 누르고 있으면 pairing mode 진입
 - 이때 `Mechanical BT` 디바이스가 검색됨
@@ -17,3 +18,4 @@ images:
 ---
 - [[tags/Technology|Technology]]
 - [PDF 매뉴얼 다운로드](https://sparq.co.kr/down/Keyboard/GK998B/GK998B%20manual.pdf)
+- [한성 키보드 블루투스 연결 방법! | 모카진의 겜잇 이야기](https://m.blog.naver.com/mochazin/223018699923)
