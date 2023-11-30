@@ -6,7 +6,10 @@ images:
 ---
 ![LIDO](https://s2.coinmarketcap.com/static/img/coins/200x200/8000.png)
 
+# stETH vs. wstETH
 - 둘 다 Ethereum 2.0의 Liquid staking 서비스를 제공하는 Lido 에서 발행하는 ERC20토큰임. 언제든 <https://stake.lido.fi/wrap/> 에서 서로 wrap/unwrap이 가능하다(gas fee 발생)
+	- stETH: ETH stake의 증표이면서 추가적인 보상
+	- wstETH: Wrapped stETH - Defi 호환 토큰
 - Lido에 100ETH를 스테이킹 하면 즉시 100stETH를 받고 reward로 예치량에 비례해 매일 소량의 stETH를 지급받는다.
 - 그런데 매일 보상 받는다는것이 Lido에서 수많은 고객들에게 매일 트랜잭션을 발생시키는 것이 아니다(성능도 가스비도 문제일 것이다).
 - rebasing token 이라고도 하는데 ERC20의 `balanceOf(addres)`를 단순 getter 형태로 구현하지 않고 **약간의 계산을 해서 돌려주는 방식**이다.
