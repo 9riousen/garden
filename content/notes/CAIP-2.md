@@ -46,4 +46,4 @@ chainstd:8c3444cf8970a9e41a706fab93e7a6c4
 
 ---
 - [[tags/Blockchain]]
-- https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-2.md
+- [caip-2.md](https://github.com/ChainAgnostic/CAIPs/blob/main/CAIPs/caip-2.md)
